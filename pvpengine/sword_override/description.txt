@@ -1,0 +1,1 @@
+This mod overrides all the default swords to remove the attack cooldown. Disable if you want normal sword behavior.
